@@ -142,6 +142,16 @@ a:hover, a:active, a:focus {
   text-align: center;
 }
 
+.project-item
+{
+  padding: 15px;
+  height: 80px;
+}
+
+.project-item img
+{
+  margin: 0 auto;
+}
 
 
 /*---------------------------------------
